@@ -1,0 +1,166 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    /* border: 1px solid green; */
+}
+.navbar{
+    background-color: #fbfdfb;
+}
+
+.nav-item .nav-link{
+    color: #f13535f5 !important;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 2%;
+}
+#oneee{
+    padding: 0px 35px;
+}
+/* sec2 */
+.bgimg{
+    background-image: url('https://domitos.com/media/images/grocerysupermarkets.original.png');
+    background-size: cover;
+    width: 99vw;
+    height: 75vh;
+    background-position: center;
+}
+.head1{
+    font-weight: bold; color: #29f729; font-size: 50px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 5%;
+}
+.para{
+    font-weight: bold;
+    font-size: normal;
+    color:#dced23;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.one{
+    width: 30%;
+    font-size: 20px;
+    margin-left:  25px;
+    
+}
+/* end sec2 */
+/* sec3 */
+.head2{
+    color: #f13535f5;
+    font-size: 45px;  font-weight: bold;margin-top: 5%; margin-bottom: 2%; text-transform: capitalize;
+}
+.imageries{
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+}
+.card-img-top{
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit:cover;
+}
+.card-title{
+    color: #444cc6f5;
+    font-size: 20px;
+    font-weight: bold;
+}
+.card-text{
+    font-weight: bold;
+    color: #2d4dda;
+}
+.card-group{
+    margin-bottom: 3%;
+}
+.three{
+    border: 1px solid green;
+    font-size: 15px;
+    color: #444cc6f5;
+    font-weight: bold;
+}
+/* end */
+.text-center{
+    color:#1138e4;
+    font-weight: bold;
+}
+
+/* payment */
+.zero{
+    background-color: #c7324a;
+    color: white;
+    font-size: 25px;
+    width: 50%;
+}
+.fa-cc-visa{
+    background-color: #189cdf;
+    font-size: 30px;
+}
+@media screen and (max-width:768px){
+    .adjust{
+        margin-top: -5%;
+    }
+}
+@media screen and (min-width:769px){
+    .adjust{
+        margin-top: 5%;
+    }
+}
+/* contact */
+.input-group-text{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+.fa-address-book{
+    background-color: lightblue;
+    font-size: 20px;
+}
+
+/* footer */
+.bgimg5{
+    background-color: #52f60b;
+}
+.ftext{
+color: #d71a2a;
+text-decoration: underline #d71a2a;
+font-size: 45px;
+}
+.last li{
+    color: rgb(32, 29, 29);
+    font-weight: bold;
+}
+.fa-linkedin{
+color: #356db6;
+ font-size:  40px;
+ padding-left: 2%;
+}
+.fa-youtube{
+ color: red;
+ font-size:  40px;
+ padding-left: 2%;
+}
+.fa-facebook{
+    color: #2d4dda;
+    font-size:  40px;
+    padding-left: 2%;
+}
+.fa-square-snapchat{
+    color: yellow;
+    font-size: 40px;
+    padding-left: 2%;
+}
+.fa-square-instagram{
+    color:#e428b5;
+    font-size:  40px;
+    padding-left: 2%;
+}
+
+
+
+
+
+
+
+
